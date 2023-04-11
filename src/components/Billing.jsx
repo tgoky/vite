@@ -14,13 +14,11 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+        Easily control your <br className="sm:block hidden" /> Shipment & 
+        Orders
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+      Our advanced tracking system allows customers to easily monitor the status of their deliveries in real-time, providing peace of mind and convenience. 
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

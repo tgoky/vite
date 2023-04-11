@@ -11,7 +11,7 @@ export const navLinks = [
   },
   {
     id: "product",
-    title: "Product",
+    title: "Logistics",
   },
   {
     id: "clients",
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Tracking History",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Swift Delivery Service is a renowned courier company with a reputation for delivering packages and documents quickly and efficiently. ",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Trust Swift Delivery Service for swift, hassle-free, and dependable deliveries every time.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Swift Service",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "We offer a wide range of services, including same-day and next-day deliveries, as well as express and standard shipping options. With a large fleet of well-maintained vehicles and a team of experienced drivers",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+    "Swift Delivery Service exceeded my expectations! They delivered my package right on time, and their tracking system allowed me to keep tabs on the progress. I was impressed with their professional and friendly customer service.",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Courier Strategist",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+    "I love Swift Delivery Service! Their fast and reliable deliveries have been a game-changer for my business. Their drivers are courteous and efficient, and their rates are competitive. I highly recommend them for anyone in need of swift and dependable courier services.",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Logistics Secretary",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+    "Swift Delivery Service is my go-to courier for urgent deliveries. They have never let me down and always deliver my packages promptly. Their team is responsive, and their advanced tracking system gives me peace of mind. I can't imagine using any other delivery service.",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Co-Founder",
     img: people03,
   },
 ];
@@ -90,7 +90,7 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Air Freight",
     links: [
       {
         name: "Content",
@@ -115,7 +115,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Community",
+    title: "Shipment",
     links: [
       {
         name: "Help Center",
@@ -140,7 +140,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Partner",
+    title: "Cargo",
     links: [
       {
         name: "Our Partner",
