@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import trackingData from './trackingInfo.json'; 
+import trackingData from '../components/TrackingInfo.json'; 
 import './DeliveryStyles.css'; 
 
 const TrackDelivery = () => {
