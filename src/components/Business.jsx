@@ -23,12 +23,10 @@ const Business = () =>  (
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
         You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        the shipment
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+      Our wide coverage area and flexible delivery options make us a preferred choice for businesses and individuals alike. Swift Delivery Service takes pride in their commitment to excellent customer service and their dedication to meeting the needs of their clients.
       </p>
 
       <Button styles={`mt-10`} />
